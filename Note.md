@@ -5,3 +5,4 @@ The purpose of this system is to provide a simple and user-friendly ordering pro
 Eyy lesgo burakkk
 
 note: angels burger(Dashboard.form & Dashboard.java) // images(All jpgs)
+<img width="1830" height="1045" alt="image" src="https://github.com/user-attachments/assets/d5f67e9c-b32d-424a-9c1f-84ed031b5b41" />
